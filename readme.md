@@ -7,4 +7,9 @@ officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudia
 Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut 
 perferendis doloribus asperiores repellat."
 
-# Ta
+# Titulo
+---
+
+**Negrita**
+
+~~Tachado~~
